@@ -105,6 +105,9 @@ h1{
     vertical-align: middle;
 }
 
+li {
+    margin: 18px;
+}
 
 
 /* Utils*/
