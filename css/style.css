@@ -1,0 +1,35 @@
+/* css reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Generics*/
+
+body {
+    background-color: lightgray;
+}
+
+h1{
+    display: inline;
+    font-size: 60px;
+    vertical-align: middle;
+    font-family: "Arial", sans-serif;
+}
+
+/* Utils*/
+
+.container {
+    background-color: white;
+    height: 100px;
+    margin-bottom: 40px;
+}
+
+#logo {
+    height: 80px;
+    vertical-align: middle;
+    margin: 10px 0px 10px 20px;
+}
+    
